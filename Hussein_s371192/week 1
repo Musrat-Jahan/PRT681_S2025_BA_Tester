@@ -1,0 +1,33 @@
+In Week 1, our class was introduced to the Software Engineering Practice unit.  
+The lecturer explained how we will simulate a real-world software development team.
+Each student was assigned a specific role, and I was assigned the role of Tester.
+We also discussed how our team would work together using tools like GitHub for version control and online collaboration.
+Our responsibilities include weekly workshops, role research, and tool practice.
+
+Research on Role: (Software Tester
+A software tester plays a critical role in the development process by:
+Ensuring the software behaves as expected.
+Catching bugs early in the development cycle.
+Writing and executing test cases.
+Working closely with developers and analysts to improve the product.
+Verifying both functionality and user experience.)
+
+Skill	Description
+Manual Testing:	Performing testing without automation tools to validate basic functionality.
+Writing Test Cases:	Defining steps to test various scenarios and edge cases.
+Understanding of SDLC/STLC:	Knowing the software development and software testing life cycles.
+Bug Reporting & Tracking:	Accurately logging and tracking issues using tools.
+Analytical Thinking:	Breaking down features into testable parts.
+Attention to Detail:	Noticing small bugs or unusual behavior.
+
+Tool	Purpose
+JIRA:	Issue and bug tracking system used in Agile projects.
+Selenium:	Popular automation tool for testing web applications.
+Postman:	Tool for testing REST APIs (important for backend testing).
+TestRail/Zephyr:	Test case management systems used in many companies.
+Git/GitHub:	Version control to collaborate and track issues.
+Browser DevTools:	Inspecting front-end issues manually.
+
+
+
+

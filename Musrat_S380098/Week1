@@ -1,0 +1,116 @@
+                                Workshop 1
+
+Week 1 Class Overview
+- Introduction to software engineering fields and roles
+- Overview of key roles: Developer, Data Analyst, Tester, Business Analyst (BA), Security Analyst
+- Discussed main responsibilities of each role
+- Certifications recommended for each role:
+   Developer: Microsoft Azure Developer, Oracle Java Certification
+   Data Analyst: Google Data Analytics, Microsoft Power BI Certification
+   Tester: ISTQB Certification
+   Business Analyst: CBAP, ECBA
+   Security Analyst: CompTIA Security+, CEH, CISSP
+ 
+-Importance of report writing skills across all roles
+- Tools commonly used by each role (e.g., Selenium for Tester, Power BI for Data Analyst, Wireshark for Security)
+- Explanation of how software projects run and collaboration between roles
+- Emphasis on gaining practical experience and identifying skill gaps early
+
+Research on the Tester Role
+
+Role Overview: Software Tester / QA Tester
+- Ensures that software applications perform as intended and are free of critical issues.
+- Responsible for identifying defects, documenting bugs, and validating that requirements are met.
+- Works closely with developers to facilitate efficient resolution of defects.
+- Conducts both manual and automated testing to maintain high software quality.
+
+Consolidated List of Skills
+- Attention to Detail: Ability to identify small inconsistencies and bugs.
+- Analytical Thinking: Skill in understanding and breaking down complex systems.
+- Problem-Solving: Proficiency in finding root causes of issues.
+- Communication Skills: Capability to document and report defects clearly.
+- Time Management: Efficiency in meeting testing deadlines.
+- Basic Programming Knowledge: Familiarity with programming languages (e.g., Python, Java) to support automation.
+- Understanding of SDLC and STLC: Comprehensive knowledge of development and testing cycles.
+- Test Case Design & Execution: Competence in formulating and running effective test scenarios.
+- Bug Reporting and Tracking: Aptitude for accurately documenting and monitoring issues.
+
+ Consolidated List of Tools:
+
+Testing Tools:
+-Selenium (automated web testing)
+-Postman (API testing)
+-Unit / TestNG (unit testing for Java)
+-Robot Framework (automation with easy syntax)
+
+Test Management Tools:
+-TestRail
+-Zephyr
+-qTest
+
+Bug Tracking Tools:
+-JIRA
+-Bugzilla
+-Mantis
+
+Performance Testing Tools:
+-JMeter
+-LoadRunner
+
+Security Testing Tools:
+- OWASP ZAP
+- Burp Suite
+
+                                      Workshop 02:
+
+
+Useful Video Tutorials, Certifications, and Learning Resources : 
+
+1. YouTube Tutorials
+   - Automation Step by Step - Raghav Pal: Beginner-friendly tutorials on Selenium, Postman, Robot Framework, and Jenkins.
+   - Guru99 Testing Series: Covers manual testing, SDLC/STLC, and QA basics.
+   - Simplilearn QA Testing Tutorials : Conceptual videos on software testing fundamentals and test planning.
+
+2. LinkedIn Learning
+   - Foundations of Software Testing : Covers testing types, planning, and execution.
+   - Test Automation Foundations : Teaches Selenium, writing test scripts, and setting up automated test environments.
+   - API Testing with Postman : Good for testers focusing on backend and API validation.
+
+3. Udemy Courses
+   - The Complete 2024 Software Testing Bootcamp by Tarek Roshdy: Includes manual + automation testing.
+   - Selenium WebDriver with Java by Rahul Shetty: In-depth training on Selenium automation.
+   - REST API Testing (Postman + JavaScript): Useful for learning API testing.
+   - ISTQB Foundation Certification Prep : Prepares for the global testing certification exam.
+
+4. Certifications
+   - ISTQB Foundation Level : Entry-level certification in testing (globally recognized).
+   - Certified Selenium Professional (via Udemy or LinkedIn prep).
+   - Postman API Fundamentals : Free Postman certification for API testing.
+
+Strategic Learning Sequence for Testers:
+
+1. Start with Manual Testing
+   - Understand SDLC/STLC
+   - Learn test case writing, bug reporting, defect lifecycle
+   - Tools: Excel, JIRA, Google Sheets
+
+2. Move to API Testing
+   - Learn how to use Postman
+   - Understand how APIs work (HTTP methods, JSON, headers)
+   - Practice testing real APIs
+
+3. Learn Automation Testing
+   - Learn Selenium basics (UI automation)
+   - Programming (Java or Python – basic level)
+   - Automate test cases and run in browsers
+
+4. Understand CI/CD Integration
+   - Learn how testers contribute in DevOps
+   - Tools: Jenkins, GitHub Actions
+
+5. Advanced Topics
+   - Performance Testing with JMeter
+   - Security Testing Basics (OWASP ZAP)
+   - Mobile Testing (Appium)
+
+
