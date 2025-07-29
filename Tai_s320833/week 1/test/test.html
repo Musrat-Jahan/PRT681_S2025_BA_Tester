@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Counter Test</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mocha/mocha.css" />
+</head>
+
+<body>
+  <div id="mocha"></div>
+
+  <!-- Add the DOM structure your script.js expects -->
+  <h1>Dummy Counter App</h1>
+  <p id="count">0</p>
+  <button onclick="increment()">+1</button>
+  <button onclick="decrement()">-1</button>
+
+  <!-- Mocha/Chai -->
+  <script src="https://cdn.jsdelivr.net/npm/mocha/mocha.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chai/chai.js"></script>
+  <script>
+    mocha.setup('bdd');
+    const expect = chai.expect;
+  </script>
+
+  <!-- App logic -->
+  <script src="../script.js"></script>
+
+  <!-- Tests -->
+  <script>
+    describe("Browser Counter Test", () => {
+      it("should increment", () => {
+        increment();
+        expect(document.getElementById('count').innerText).to.equal('1');
+      });
+
+      it("should decrement", () => {
+        decrement();
+        expect(document.getElementById('count').innerText).to.equal('0');
+      });
+    });
+
+    mocha.run();
+  </script>
+</body>
+
+
+</html>
