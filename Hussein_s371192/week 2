@@ -1,6 +1,12 @@
-In Week 2, I learned how to use Postman for simple API testing. 
+I learned how to use Postman for simple API testing. 
 I sent a GET request to a sample API link "https://jsonplaceholder.typicode.com/posts/1". 
 The server replied with some JSON data and showed a 200 OK status, which means the request worked successfully. 
 I also wrote a small test in Postman to automatically check if the response status is 200. 
 When I ran the request, the test passed and showed a green tick. 
 This helped me understand that Postman can be used not only to send requests but also to check if the responses are correct.
+
+I practiced creating a bug in Jira to understand how issues are tracked. 
+I made a project in Jira and added a bug called "Login accepts wrong password." 
+In the bug, I wrote the steps to reproduce the issue, the expected result, and the actual result. 
+I also set the severity to High and kept the status as "To Do." 
+This helped me learn how testers report bugs clearly so developers can fix them.
