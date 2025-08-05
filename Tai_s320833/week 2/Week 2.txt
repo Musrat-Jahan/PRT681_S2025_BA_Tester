@@ -1,0 +1,11 @@
+In week 2 I studied 2 courses on LinkedIn learning, this was 
+
+https://www.linkedin.com/learning/agile-testing-2
+and
+https://www.linkedin.com/learning/planning-and-releasing-software-with-jira-14442823
+
+The Agile Testing module focused on embedding quality activities inside that same delivery cadence. It distinguished unit, service, and UI layers and argued for a test-pyramid approach to keep feedback fast and maintainable. Key practices included writing executable acceptance criteria before development (ATDD), automating regression checks in the continuous-integration pipeline, and keeping exploratory sessions for risk-based coverage. Defects are treated as backlog items, linked to the stories that introduced them, and carried into sprints for full visibility. Altogether the course showed how testers, developers, and product owners share a single definition of done: every story is accepted only when automated checks pass and exploratory findings are resolved.
+
+The Jira course clarified how structured release planning supports predictable delivery. I saw how to convert product goals into versions, break them down into epics and story-sized work, and use story points plus velocity to forecast scope against time. The lessons emphasized creating a transparent backlog, running short sprints, and using built-in reports—burndown, release burndown, sprint report—to spot risk early and gate production releases. I also learned to treat a release as a formal object in Jira: every work item ties to a fix version, release notes are generated automatically, and unresolved issues block the version until they are moved to done.
+
+I also began to develop a Jira Board prototype to further show the skills.
