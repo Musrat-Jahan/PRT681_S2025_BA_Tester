@@ -8,4 +8,9 @@ The Agile Testing module focused on embedding quality activities inside that sam
 
 The Jira course clarified how structured release planning supports predictable delivery. I saw how to convert product goals into versions, break them down into epics and story-sized work, and use story points plus velocity to forecast scope against time. The lessons emphasized creating a transparent backlog, running short sprints, and using built-in reports—burndown, release burndown, sprint report—to spot risk early and gate production releases. I also learned to treat a release as a formal object in Jira: every work item ties to a fix version, release notes are generated automatically, and unresolved issues block the version until they are moved to done.
 
-I also began to develop a Jira Board prototype to further show the skills.
+I also began to develop a Jira Board prototype to further show the skills. Linked below are the certificate I received.
+
+https://www.linkedin.com/learning/certificates/47ab8a368106be789935b2cdffacbcffe2998b48e16a9ed1f7565a840d0493bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWXo1%2B2aSSIyP%2Ff1cHmQ39g%3D%3D
+
+
+https://www.linkedin.com/learning/certificates/8ff84549f5618354af183a8aaa4f3032c505e4bca8b43a7010a63f72c4b72e59?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWXo1%2B2aSSIyP%2Ff1cHmQ39g%3D%3D
