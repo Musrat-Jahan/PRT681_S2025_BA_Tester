@@ -1,1 +1,48 @@
+Software Testing Sample ( Software Quality Assurance)
+Course Provider : Udemy 
+Course link : https://www.udemy.com/share/103hQO3@l4zvgY_Ed0GemxjO_1CmmXlAUNY2Zsz0R3k9xtRnTwNLHfHLDdYK9lOn755L6tPegg==/
 
+Introduction to Software Testing
+
+-What is software testing?
+-Why testing is important?
+-Difference between Verification (Are we building it right?) and Validation (Are we building the right thing?).
+
+Types of Testing
+
+-Unit Testing – testing small pieces of code in isolation.
+-Integration Testing – testing interactions between modules.
+-System Testing – testing the complete application.
+-Acceptance Testing – validating against business requirements.
+
+Approach:
+Functional Testing – checks features work as expected.
+Non-functional Testing – checks performance, security, usability.
+
+Testing Methods:
+-Manual Testing – human executes test cases.
+-Automation Testing – tools or scripts run tests automatically.
+-Static Testing – reviews, inspections, code analysis.
+-Dynamic Testing – running the code and checking outputs.
+
+Testing :
+-Unit Testing
+-Integration Testing
+-System Testing
+-User Acceptance Testing (UAT)
+
+Test Design:
+-Test Case – what to test and how to test.
+-Test Data – input values for testing.
+-Test Scenario – high-level description of what to test.
+- Expected Result vs Actual Result.
+
+Testing Techniques:
+Black Box Testing – no knowledge of internal code, focus on inputs and outputs.
+White Box Testing – testing with knowledge of code structure.
+Grey Box Testing – mix of both.
+Boundary Value Analysis and Equivalence Partitioning – common test data strategies.
+
+Bug Lifecycle:
+Bug discovery → Logging → Assignment → Fix → Retest → Closure.
+Bug severity vs priority.
