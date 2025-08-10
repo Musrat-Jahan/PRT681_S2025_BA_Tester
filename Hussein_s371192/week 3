@@ -1,1 +1,19 @@
+i watched three courses in linkedin
+1. Test Automation Foundations
+The course teaches why automation matters—it saves time, helps catch bugs early, and supports continuous development.
+It introduces the Agile Testing Quadrants, a way to organize testing:
+Q1: Developer tests (unit/integration)
+Q2: Feature/business tests
+Q3: Manual/user testing
+Q4: Performance/security checks
+It also covers how to start automation with tools, plan tests, and keep your automation healthy over time.
 
+2. Planning and Releasing Software with Jira
+This video walkthrough shows how to use Jira, Confluence, and Bitbucket together to handle the whole software release process.
+
+You learn to write requirements in Confluence, link them to tasks in Jira, plan releases (versions), track progress, release code in Bitbucket, and then review the results back in Confluence.
+
+3. Introducing Postman – Managing Header Presets
+This video segment explains how to save groups of common headers (like API key or content type) as presets in Postman.
+
+Once saved, you can apply these to any request with one click instead of typing them each time—making your API testing faster and easier.
