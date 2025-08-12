@@ -1,0 +1,28 @@
+The Australian software testing market is experiencing rapid transformation, driven by the increasing adoption of Agile and DevOps methodologies, as well as the demand for faster time-to-market in digital products. Among the most relevant testing types, application testing remains the largest segment. This includes functional, usability, and reliability testing for both mobile and web applications, reflecting the significant growth in Australia’s e-commerce, banking, and public sector digital services (Technavio, 2024).
+
+Automation and continuous testing are also gaining prominence, enabling quality assurance teams to integrate testing directly into Continuous Integration/Continuous Deployment (CI/CD) pipelines. This approach reduces feedback cycles and aligns testing processes with modern software delivery models (Mordor Intelligence, 2024). A related discipline, TestOps, is emerging as a strategic framework for managing test environments, monitoring results, and ensuring that testing aligns with business objectives in DevOps workflows (Wikipedia, 2024).
+
+Crowdsourced or on-demand testing is another growing trend in Australia, offering scalability and real-world coverage without the overhead of maintaining extensive device labs. This approach is particularly valuable for ensuring compatibility across diverse devices and geographic regions (Business Research Insights, 2024).
+
+Security and performance testing are also becoming more critical, particularly given the increasing focus on cybersecurity regulations and service reliability in sectors such as finance, healthcare, and government. Risk-based testing is used to prioritise testing activities based on business impact and the likelihood of defects, ensuring resources are allocated efficiently (Wikipedia, 2024).
+
+Overall, the Australian market is moving towards a testing landscape that combines automation, operational efficiency, and risk management. Companies that adopt integrated approaches—combining application testing, automation, and emerging practices such as TestOps—are best positioned to meet both business and regulatory demands.
+
+References
+
+Business Research Insights, 2024. Software Testing Market Report. [online] Available at: https://www.businessresearchinsights.com/market-reports/software-testing-market-102413 [Accessed 10 Aug. 2025].
+
+Mordor Intelligence, 2024. Software Testing Market. [online] Available at: https://www.mordorintelligence.com/industry-reports/software-testing-market [Accessed 10 Aug. 2025].
+
+Technavio, 2024. Software Testing Services Market in Australia to Grow by USD 1.42 Billion 2024-2028. [online] Available at: https://www.prnewswire.com/news-releases/software-testing-services-market-in-australia-to-grow-by-usd-1-42-billion-2024-2028-driven-by-cost-reduction-and-faster-time-to-market-with-ai-redefining-market-landscape---technavio-302319421.html [Accessed 10 Aug. 2025].
+
+Wikipedia, 2024. Continuous testing. [online] Available at: https://en.wikipedia.org/wiki/Continuous_testing [Accessed 10 Aug. 2025].
+
+
+
+This week I watched  Software Testing Foundations: Keeping QA Skills Current in the Age of AI and  Software Testing Foundations: Building a Career in Quality,
+
+I received 
+
+https://www.linkedin.com/learning/certificates/00ab037633325c6ba81aa976de93635242fc18ea92ccfe8aa13412c995f36699?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvL7Myx%2BgS8OTMVTMRImpJg%3D%3D
+https://www.linkedin.com/learning/certificates/dfcc25764c40506be36c4d3bd98b784336fa2824e2c801fd1073eb54a390b3d2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvL7Myx%2BgS8OTMVTMRImpJg%3D%3D
