@@ -26,3 +26,11 @@ I received
 
 https://www.linkedin.com/learning/certificates/00ab037633325c6ba81aa976de93635242fc18ea92ccfe8aa13412c995f36699?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvL7Myx%2BgS8OTMVTMRImpJg%3D%3D
 https://www.linkedin.com/learning/certificates/dfcc25764c40506be36c4d3bd98b784336fa2824e2c801fd1073eb54a390b3d2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvL7Myx%2BgS8OTMVTMRImpJg%3D%3D
+
+
+The software QA lifecycle consists of sequential and iterative activities designed to ensure that software products meet defined quality standards. It typically begins with requirement analysis, where quality objectives and acceptance criteria are identified. In the test planning phase, a strategy is developed, resources are allocated, and schedules are defined. Test design follows, involving the creation of test cases, test data, and traceability matrices.
+
+The test environment setup stage prepares the hardware, software, and configurations necessary to execute tests. Test execution involves running test cases and logging results, with defects recorded for resolution. In the defect tracking and reporting phase, issues are monitored until closure. Test closure occurs once exit criteria are met, with final reporting and lessons learned documented.
+
+This lifecycle operates alongside development, often in iterative cycles under Agile or DevOps frameworks to enable continuous quality assurance.
+
