@@ -1,1 +1,13 @@
+This week I learned about APIs and automation in Postman from two videos:
 
+1.Communicate on the Web using Services
+-APIs let different software talk to each other.
+-They send requests (like asking for data) and get responses (like answers from a server).
+-Web services use APIs so apps can share data, for example: a weather app getting live weather info.
+-APIs make software faster, reusable, and easier to connect.
+
+2.Why Automate Your API Tests (Postman)
+-Manual testing is slow and can miss mistakes.
+-Automated tests in Postman are faster, always give the same result, and run many times.
+-They help find bugs early and can run automatically in CI/CD pipelines when new code is added.
+-This makes software more reliable and saves testers time.
