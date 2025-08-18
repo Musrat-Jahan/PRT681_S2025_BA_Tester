@@ -1,0 +1,44 @@
+Course 1: Software Testing Fundamentals
+
+Learning Objectives
+
+- Analyze components and processes for creating a comprehensive test plan.
+- Explain the role of documentation in ensuring clarity and consistency.
+- Evaluate black-box and white-box testing** for different scenarios.
+- Apply equivalence partitioning and boundary-value analysis to test inputs.
+- Use experience-based testing to handle time constraints and targeted issues.
+- Collaborate with development teams to test interfaces, usability, and performance.
+- Highlight the importance of white-box testing for assessing internal code.
+- Develop communication strategies to explain results to non-technical stakeholders.
+- Distinguish between functional and non-functional testing for quality evaluation.
+- Plan and justify test technique selection based on requirements, timelines, and team skills.
+
+Skills Covered:
+
+- Test planning & lifecycle management
+- Documentation of test processes
+- Black-box and white-box testing techniques
+- Equivalence partitioning & boundary-value analysis
+- Experience-based and collaborative testing
+- Functional vs. non-functional testing
+
+Course 2: Advanced Software Testing Tools & Practices
+
+Learning Objectives
+
+- Explore tools and practices for test planning and lifecycle management.
+- Apply test automation frameworks to streamline testing.
+- Conduct API testing using appropriate tools.
+- Perform vulnerability scanning to identify security risks.
+- Execute load testing with JMeter to evaluate performance.
+- Extend testing knowledge beyond QA into unit testing and infrastructure testing.
+
+**Skills Covered**
+
+* Test automation frameworks
+* API testing tools
+* Vulnerability scanning
+* Load testing with JMeter
+* Unit testing
+* Infrastructure testing
+
