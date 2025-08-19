@@ -1,0 +1,7 @@
+https://www.linkedin.com/learning/certificates/08abf6fd69181935eae0a1fc44d54612419bae00282971da2749268e42276897
+https://www.linkedin.com/learning/certificates/bc847b09c6a347be9c904a4efd5fd0ebdff1a0aab570ceb05600a2cb191c8501
+https://www.linkedin.com/learning/certificates/08abf6fd69181935eae0a1fc44d54612419bae00282971da2749268e42276897
+
+
+The first course was Python Automation and Testing, it introduces the streamlined power of automating web UI testing using Python with Selenium WebDriver,
+the second course is Why use Selenium WebDriver for Java, which explains why it’s a leading framework for simulating real user interactions with web applications and is highly valued in contemporary testing roles. The final course is API Testing Foundations, which helps teach the basics of web services, API terminology, and different types of APIs.
