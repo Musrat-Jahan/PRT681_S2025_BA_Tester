@@ -1,132 +1,71 @@
-# 🗓️ Week 03 Report  
-**Week:** 04 August 2025 – 10 August 2025  
-**Prepared by:** *Musrat Jahan*  
+                                                       Week 03 Report  
+Week 3: 04 August 2025 – 10 August 2025  
+Prepared by: Musrat Jahan 
 
----
+Fake News Detector App – Role Play (Waterfall)
 
-## 🛠️ Modelling & Diagramming Tools
+Roles:
 
-| Tool               | Description                                                   | YouTube Tutorial |
-|--------------------|---------------------------------------------------------------|------------------|
-| **UML**            | Unified Modeling Language used for **visualizing system design**. | [UML Basics Tutorial](https://www.youtube.com/watch?v=WnMQ8HlmeXc) |
-| **BPMN 2.0**       | Business Process Model and Notation for **workflow modeling**. | [BPMN 2.0 Crash Course](https://www.youtube.com/watch?v=JghK1aM1qBM) |
-| **Visual Paradigm**| Popular tool for **UML, BPMN, ERD, and use-case diagrams**.   | [Visual Paradigm Tutorial](https://www.youtube.com/watch?v=5vg4L1hVtG8) |
-| **Balsamiq**       | Tool for **wireframing** and creating **UI mockups**.         | [Balsamiq Wireframes Guide](https://www.youtube.com/watch?v=6HkIaI8pz2c) |
-| **Figma**          | Collaborative platform for **UI/UX design** and prototyping. | [Figma for Beginners](https://www.youtube.com/watch?v=FTFaQWZBqQ8) |
+ Client (News Manager)
+ Project Manager
+ Business Analyst
+ Developer
+ Tester
+ Support Team
 
----
+Phase 1. Requirement Gathering
 
-## 📄 Text & File Tools
+Client: “We want an app that tells if news is real or fake.”
+Business Analyst: “Do you want a credibility score?”
+Client: “Yes.”
 
-| Tool              | Description                                  | YouTube Tutorial |
-|-------------------|----------------------------------------------|------------------|
-| **Notepad++**     | Lightweight editor for code, configs, and notes. | [Notepad++ Basics](https://www.youtube.com/watch?v=3t6L-FlfeaI) |
-| **WinMerge**      | Tool to **compare and merge files/folders**. | [WinMerge Tutorial](https://www.youtube.com/watch?v=cW4ZxfgY9uw) |
-| **KeePass**       | Open-source tool for **secure password management**. | [KeePass Beginner’s Guide](https://www.youtube.com/watch?v=d-djQbtUq7Q) |
-| **Microsoft Excel** | Spreadsheet tool used for **reports, formulas, and analytics**. | [Excel Basics 2025](https://www.youtube.com/watch?v=opRMrEfAIiI) |
-| **VLOOKUP / HLOOKUP** | Excel formulas to **search and extract data** from tables. | [VLOOKUP & HLOOKUP Guide](https://www.youtube.com/watch?v=V8xjq3iR4rc) |
-| **Microsoft Word** | Tool for **document management, editing, and review**. | [Word Basics Tutorial](https://www.youtube.com/watch?v=SQFPjioZj7E) |
+Phase 2. Design
 
----
+Designer: “Here’s the app layout: input box + result screen.”
+Client: “Looks good.”
 
-## 🤝 Collaboration & Project Management Tools
+Phase 3. Implementation
 
-| Tool            | Description                                       | YouTube Tutorial |
-|-----------------|---------------------------------------------------|------------------|
-| **Trello**      | Kanban-style board for **task and project tracking**. | [Trello Basics](https://www.youtube.com/watch?v=QpXnXx3uq5A) |
-| **Jira**        | Agile project management for **issue tracking** and sprints. | [Jira Complete Guide](https://www.youtube.com/watch?v=xXyGFi7NwjM) |
-| **Confluence**  | Tool for **documentation and team collaboration**. | [Confluence Tutorial](https://www.youtube.com/watch?v=G2aDkAG9lqs) |
-| **SharePoint**  | Microsoft’s **document sharing and intranet** platform. | [SharePoint Guide](https://www.youtube.com/watch?v=sOPOHiHQvPQ) |
-| **SourceTree**  | Git GUI client for managing repositories visually. | [SourceTree Basics](https://www.youtube.com/watch?v=7XU87uS3l1o) |
-| **Git GUI**     | Interface for **Git commands** without CLI usage. | [Git GUI Tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc) |
-| **Microsoft Teams** | Tool for **chat, calls, video meetings, and collaboration**. | [Teams Basics](https://www.youtube.com/watch?v=VHxTnz6p7Mg) |
-| **Microsoft Outlook** | Tool for **email, calendar, and contact management**. | [Outlook 2025 Basics](https://www.youtube.com/watch?v=9Y9d1BFJ8aU) |
+Developer: “I built the AI model. It checks text and gives a score.”
 
----
+Phase 4. Testing
+Tester: “Fake news gave a high score – bug found.”
+Developer: “Fixed it.”
+Tester: “Now it works.”
 
-## ⚡ Scripting & Automation
+Phase 5. Deployment
+Client: “Great, the app shows ‘Likely Fake’ for wrong news.”
 
-| Tool           | Description                            | YouTube Tutorial |
-|---------------|----------------------------------------|------------------|
-| **Bash Script** | Automates tasks in **Linux/Unix environments**. | [Bash Scripting Tutorial](https://www.youtube.com/watch?v=tK9Oc6AEnR4) |
+Phase 6. Maintainence
+Support Team: “We’ll handle incidents, updates, and user issues after go-live.”
 
----
 
-## 📌 Methodologies
+                                                      Course Details
+Course Name: Software Testing Tools
+Course Provider: Linkdin Learning
+Course Teacher: Mike Smith
+Certificate URL: https://www.linkedin.com/learning/certificates/f6ed3baac7c56b2d2e4c5957e7f0d004aef05c2f4fdb771388e6f12c0a38d450?trk=share_certificate
 
-| Methodology | Description                                    | YouTube Tutorial |
-|------------|-----------------------------------------------|------------------|
-| **Agile**  | Iterative development methodology focused on **customer collaboration**. | [Agile Basics](https://www.youtube.com/watch?v=0WjTGKdd5m4) |
-| **Kanban** | Visual board-based project tracking approach.  | [Kanban Explained](https://www.youtube.com/watch?v=iVaFVa7HYj4) |
-| **Scrum**  | Agile framework for **sprint-based development**. | [Scrum for Beginners](https://www.youtube.com/watch?v=9TycLR0TqFA) |
-| **Unified Process (UP)** | Iterative **software development methodology**. | [Unified Process Overview](https://www.youtube.com/watch?v=r0WxA3J9n8A) |
+Course Summary
+This course reviews popular software testing tools (open-source & paid) like Selenium, Postman, JMeter, and Kali Linux. It explains which tools fit best for different testing disciplines such as API, security, load, and automation. It also explores lifecycle management, test planning, and areas beyond traditional QA, like unit and infrastructure testing. The goal is to help testers choose the right tools for their environment by understanding pros, cons, and real use cases
 
----
+Learning Objectives
+  Understand  lifecycle management and test planning tools.
+  Learn about test automation frameworks (Selenium, TestLink).
+  Explore API testing tools (SopUI, Postman).
+  Use vulnerability scanners (OWASP ZAP).
+  Perform load testing with JMeter.
+  Go beyond QA into unit testing and infrastructure testing.
 
-## 🧾 Business Documentation
+Tool selection for different testing needs.
+  Lifecycle & test management.
+  Automation scripting & frameworks.
+  API testing & debugging.
+  Security vulnerability scanning.
+  Load/performance testing.
+  Broader testing skills: unit & infrastructure testing.
 
-| Document Type          | Description                                  |
-|------------------------|----------------------------------------------|
-| **Business Requirements Document (BRD)** | Defines **business goals, needs, and functional requirements**. |
-| **Technical Specification / Manual** | Explains **technical details, architectures, and APIs**. |
-
----
-
-## 📊 Data Tools & Technologies
-
-| Tool / Tech      | Description                                         | YouTube Tutorial |
-|------------------|-----------------------------------------------------|------------------|
-| **SQL**          | Language to **query and manage databases**.        | [SQL Basics](https://www.youtube.com/watch?v=HXV3zeQKqGY) |
-| **Excel**        | Data analysis and reporting tool.                  | [Excel Data Analysis](https://www.youtube.com/watch?v=opRMrEfAIiI) |
-| **Power BI**     | Interactive data visualization platform.           | [Power BI Tutorial](https://www.youtube.com/watch?v=g7V2W6Xo0qQ) |
-| **MySQL**        | Open-source database management system.            | [MySQL Tutorial](https://www.youtube.com/watch?v=7S_tz1z_5bA) |
-| **PostgreSQL**   | Advanced relational database tool.                 | [PostgreSQL Guide](https://www.youtube.com/watch?v=qw--VYLpxG4) |
-| **Redis**        | In-memory database used for **caching and speed**. | [Redis Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998) |
-| **SSMS**         | SQL Server Management Studio for **MS SQL Server**. | [SSMS Basics](https://www.youtube.com/watch?v=G4LHQD1o2mQ) |
-| **Azure Data Studio** | Cross-platform data tool for **SQL and Azure**. | [Azure Data Studio Tutorial](https://www.youtube.com/watch?v=FHO1k3W7nbU) |
-| **Tableau**      | Leading tool for **data visualization**.           | [Tableau Beginner Guide](https://www.youtube.com/watch?v=V_yWIsY1B3o) |
-| **Azure Data Factory** | ETL tool for **data integration** on Azure.  | [ADF Tutorial](https://www.youtube.com/watch?v=cMS7t8ib7Yw) |
-
----
-
-## 🌐 Mobile Platforms
-
-| Platform | Description                         | YouTube Tutorial |
-|---------|-------------------------------------|------------------|
-| **iOS** | Apple’s mobile OS for iPhone/iPad.  | [iOS Development Basics](https://www.youtube.com/watch?v=2O5hk24sFZo) |
-| **Android** | Google’s mobile OS for smartphones and tablets. | [Android Basics](https://www.youtube.com/watch?v=fis26HvvDII) |
-| **Linux** | Open-source OS widely used in mobile & backend apps. | [Linux Basics](https://www.youtube.com/watch?v=IVquJh3DXUA) |
-
----
-
-## 🧑‍💻 Developer Tools & Technologies
-
-| Tool / Tech     | Description                                    | YouTube Tutorial |
-|-----------------|------------------------------------------------|------------------|
-| **VS Code**     | Lightweight, extensible code editor.           | [VS Code Basics](https://www.youtube.com/watch?v=VqCgcpAypFQ) |
-| **Visual Studio** | IDE for **.NET, C#, Blazor, and APIs**.      | [Visual Studio Tutorial](https://www.youtube.com/watch?v=U8XF6AFGqlc) |
-| **Sublime Text** | Fast, minimal code editor.                    | [Sublime Basics](https://www.youtube.com/watch?v=5BaaYpS3DcA) |
-| **Postman**     | API testing and documentation tool.            | [Postman API Guide](https://www.youtube.com/watch?v=VywxIQ2ZXw4) |
-| **Fiddler**     | Tool for inspecting and debugging **HTTP traffic**. | [Fiddler Tutorial](https://www.youtube.com/watch?v=KN0VzX0JAno) |
-| **C#**          | Programming language for **.NET applications**.| [C# Basics](https://www.youtube.com/watch?v=GhQdlIFylQ8) |
-| **Python**      | Versatile language for **automation, AI, and APIs**. | [Python Crash Course](https://www.youtube.com/watch?v=rfscVS0vtbw) |
-| **HTML / CSS / JS** | Core technologies for **web development**. | [HTML CSS JS Basics](https://www.youtube.com/watch?v=PlxWf493en4) |
-| **React**       | Library for **building UI components**.        | [React Beginner Guide](https://www.youtube.com/watch?v=bMknfKXIFA8) |
-| **Angular**     | Framework for **building dynamic web apps**.   | [Angular Tutorial](https://www.youtube.com/watch?v=3qBXWUpoPHo) |
-| **TypeScript**  | Superset of JS with **type safety**.           | [TypeScript Tutorial](https://www.youtube.com/watch?v=d56mG7DezGs) |
-| **REST API**    | API style using **HTTP protocols**.            | [REST API Guide](https://www.youtube.com/watch?v=Q-BpqyOT3a8) |
-| **SOAP API**    | Protocol-based API — more **structured than REST**. | [SOAP vs REST Explained](https://www.youtube.com/watch?v=J4yUuwj6pqM) |
-| **AWS**         | Amazon’s **cloud platform** for hosting and development. | [AWS Basics](https://www.youtube.com/watch?v=ubCNZRNjhyo) |
-| **Dependency Injection** | OOP concept for **reducing tight coupling**. | [DI Explained](https://www.youtube.com/watch?v=IkMND33x0qQ) |
-
----
-
-## 🧪 Testing Tools
-
-| Tool      | Description                                  | YouTube Tutorial |
-|----------|----------------------------------------------|------------------|
-| **Selenium** | Web automation testing framework.         | [Selenium Tutorial](https://www.youtube.com/watch?v=FRn5J31eAMw) |
-| **JMeter**   | Performance and load testing tool.       | [JMeter Beginner Guide](https://www.youtube.com/watch?v=K3-5sM0L6yI) |
-| **OWASP ZAP** | Security testing tool for **web apps**. | [ZAP Basics](https://www.youtube.com/watch?v=ShTtUn39p0s) |
-| **Zephyr**   | Test management add-on for Jira.         | [Zephyr Test Management](https://www.youtube.com/watch?v=zQOZ_7d7hIQ) |
+Course: SoapUI Beginner Tutorial 1 - What is SoapUI | SoapUi Introduction 
+Course Provider: Automation step by step Youtube channel.
+Course URL: https://youtu.be/mrxtd0wBGmw?si=86kCEJspyAiusM97
 
