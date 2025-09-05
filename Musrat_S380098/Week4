@@ -4,47 +4,69 @@ Week: 11 Aug 2025 – 17 Aug 2025
 Prepared by: Musrat Jahan
 
 
-Course 1: Software Testing Fundamentals
+Course Course Name: Software Testing Foundations: Test Techniques
+Course Teacher: Mike Fine
+Course Provider : Linkdin Learning 
+Certificate URL : https://www.linkedin.com/learning/certificates/ee0ab2d8e3e7afc9448641213204bf6a6799956056b7f285f99a8eafec6aad4b?trk=share_certificate
+
+Course Summary:
+This course focuses on software testing techniques. It emphasizes not just learning testing skills, but also applying them effectively—similar to mastering technique in music or sports. The course is helpful for testers who want to improve their craft or prepare for ISTQB certification.
+It covers black-box, white-box, and experience-based testing, along with practical strategies to document, plan, and communicate test results without overwhelming stakeholders with technical jargon.
 
 Learning Objectives
+	Build and analyze a comprehensive test plan.
+	Understand the role of documentation in consistency and clarity.
+	Compare testing techniques (black-box, white-box, experience-based).
+	Apply equivalence partitioning & boundary value analysis for input testing.
+	Use experience-based testing under time constraints.
+	Collaborate with developers on interfaces, usability, and performance testing.
+	Assess code structure and connectivity with white-box testing.
+	Communicate test results effectively to non-technical stakeholders.
+	Differentiate between functional vs. non-functional testing.
+	Choose test techniques aligned with requirements, timelines, and team skills.
+	Software Testing Fundamentals
+	Test Planning & Documentation
+	Black-box & White-box Testing
+	Equivalence Partitioning & Boundary Analysis
+	Functional & Non-Functional Testing
+	Communication of Testing Results
 
-- Analyze components and processes for creating a comprehensive test plan.
-- Explain the role of documentation in ensuring clarity and consistency.
-- Evaluate black-box and white-box testing** for different scenarios.
-- Apply equivalence partitioning and boundary-value analysis to test inputs.
-- Use experience-based testing to handle time constraints and targeted issues.
-- Collaborate with development teams to test interfaces, usability, and performance.
-- Highlight the importance of white-box testing for assessing internal code.
-- Develop communication strategies to explain results to non-technical stakeholders.
-- Distinguish between functional and non-functional testing for quality evaluation.
-- Plan and justify test technique selection based on requirements, timelines, and team skills.
 
-Skills Covered:
+Course Course Name: Software Testing Foundations: Transitioning from Manual to Automation
+Course Provider : Linkdin Learning 
+Course Teacher: Mike FIne
+Certificate URL: https://www.linkedin.com/learning/certificates/1459b0c90d178ed6627fce021ba48ad1c7b7cd8409cc31c2fe44fbcb3779dc7a?trk=share_certificate 
 
-- Test planning & lifecycle management
-- Documentation of test processes
-- Black-box and white-box testing techniques
-- Equivalence partitioning & boundary-value analysis
-- Experience-based and collaborative testing
-- Functional vs. non-functional testing
+Course Summary
+This course gives a foundation guide to automated software testing. It focuses on how teams can increase testing speed and efficiency using automation tools and processes.
 
-Course 2: Advanced Software Testing Tools & Practices
+Learning Outcome
+  Understand why automation is critical in today’s fast-paced tech environment.
+	Learn to analyze current systems before building automation processes.
+	Explore how to design, implement, and manage an automated testing program.
+	Gain skills in selecting the right automation tools for your needs.
+	Learn to troubleshoot automation issues and handle complex challenges.
+	Understand strategies for mixing and matching automation approaches.
+	Build and maintain a strategic automation program.
+	Boost team efficiency with the right tools and processes.
+	Solve automation-related issues effectively.
+	Confidently adapt automation to different testing environments.
 
-Learning Objectives
 
-- Explore tools and practices for test planning and lifecycle management.
-- Apply test automation frameworks to streamline testing.
-- Conduct API testing using appropriate tools.
-- Perform vulnerability scanning to identify security risks.
-- Execute load testing with JMeter to evaluate performance.
-- Extend testing knowledge beyond QA into unit testing and infrastructure testing.
 
-**Skills Covered**
+Course Course Name: Software Testing Foundations: Keeping QA Skills Current in the Age of AI
+Course Teacher: Mike Fine
+Course Provider : Linkdin Learning 
+Certificate URL : https://www.linkedin.com/learning/certificates/606dedd64839eaa2f856b9a07166b4dd3887cb30bb27f5c9978e2672a1d955dd?trk=share_certificate
 
-* Test automation frameworks
-* API testing tools
-* Vulnerability scanning
-* Load testing with JMeter
-* Unit testing
-* Infrastructure testing
+Course Summary:
+This course focuses on helping QA and testing professionals stay current in the fast-changing software industry, especially with the rise of AI in testing. It highlights the importance of continuous learning and provides guidance on how to keep improving your skills while meeting quality goals.
+
+Learning Outcomes:
+  Importance of upskilling to remain relevant in QA and testing.
+  Explore modern learning methods: AI-driven tools, video learning, and peer collaboration.
+  Learn how to integrate learning into your daily QA processes.
+  Stay updated with emerging industry trends.
+  Balance time management between learning and meeting testing objectives.
+  Use the right tools and strategies to improve overall testing effectiveness.
 
