@@ -2,51 +2,92 @@
 Week: 28 July 2025 – 03 August 2025
 Prepared by: Musrat Jahan
 
-Software Testing Sample ( Software Quality Assurance)
+Course Name: Software Testing Sample ( Software Quality Assurance QA)
 Course Provider : Udemy 
 Course link : https://www.udemy.com/share/103hQO3@l4zvgY_Ed0GemxjO_1CmmXlAUNY2Zsz0R3k9xtRnTwNLHfHLDdYK9lOn755L6tPegg==/
 
 Introduction to Software Testing
-
--What is software testing?
--Why testing is important?
--Difference between Verification (Are we building it right?) and Validation (Are we building the right thing?).
+   Software Testing: Process of checking if software works correctly and meets requirements.
+   Importance: Helps find defects early, improves quality, reduces risks, saves cost/time.
+Verification vs Validation:
+   Verification – Are we building it right? (checking design/code correctness).
+   Validation – Are we building the right thing? (checking user needs).
 
 Types of Testing
+     Unit Testing: Test smallest code units (functions/methods).
+     Integration Testing: Test how modules work together.
+     System Testing: Test the whole application end-to-end.
+     Acceptance Testing (UAT): Check if software meets business needs.
 
--Unit Testing – testing small pieces of code in isolation.
--Integration Testing – testing interactions between modules.
--System Testing – testing the complete application.
--Acceptance Testing – validating against business requirements.
+Approach
+     Functional Testing: Does the feature work as expected?
+     Non-functional Testing: Performance, security, usability, reliability.
 
-Approach:
-Functional Testing – checks features work as expected.
-Non-functional Testing – checks performance, security, usability.
+Testing Methods
+     Manual: Tester executes cases step by step.
+     Automation: Scripts/tools run tests automatically.
+     Static: Reviews, walkthroughs, code inspection.
+     Dynamic: Run the program and check results.
 
-Testing Methods:
--Manual Testing – human executes test cases.
--Automation Testing – tools or scripts run tests automatically.
--Static Testing – reviews, inspections, code analysis.
--Dynamic Testing – running the code and checking outputs.
+Test Design
+     Test Case: Step-by-step instructions for testing.
+     Test Data: Input values used for testing.
+     Test Scenario: High-level description of what to test.
+     Expected vs Actual Result: Compare to find defects.
 
-Testing :
--Unit Testing
--Integration Testing
--System Testing
--User Acceptance Testing (UAT)
+ Testing Techniques
+     Black Box: Focus on inputs/outputs, no code knowledge.
+     White Box: Test internal logic/code paths.
+     Grey Box: Combination of both.
+     Boundary Value Analysis (BVA): Test at limits (e.g., min/max values).
+     Equivalence Partitioning (EP): Group similar inputs to reduce test cases.
 
-Test Design:
--Test Case – what to test and how to test.
--Test Data – input values for testing.
--Test Scenario – high-level description of what to test.
-- Expected Result vs Actual Result.
+Bug Lifecycle
+    Steps: Discover → Log → Assign → Fix → Retest → Close.
+    Severity vs Priority:
+      -Severity = impact on system.
+      -Priority = how quickly it should be fixed.
 
-Testing Techniques:
-Black Box Testing – no knowledge of internal code, focus on inputs and outputs.
-White Box Testing – testing with knowledge of code structure.
-Grey Box Testing – mix of both.
-Boundary Value Analysis and Equivalence Partitioning – common test data strategies.
+JMeter:
+	A free tool to test apps and check performance.
+	Can test websites, APIs, databases, and more.
+	Shows how the app works when many users use it at the same time.
 
-Bug Lifecycle:
-Bug discovery → Logging → Assignment → Fix → Retest → Closure.
-Bug severity vs priority.
+JMeter Usage:
+	Find slow parts of an app.
+	See if the app can handle many users.
+	Helps improve app speed and reliability.
+
+Main Things in JMeter:
+  Test Plan – Plan of what to test.
+	Thread Group – Number of users and how fast they access the app.
+	Sampler – The request to the app (like open a page or submit a form).
+	Listener – Shows results (graphs, tables).
+	Assertion – Checks if app works correctly.
+	Timer – Adds delay between requests.
+
+Types of Tests:
+	Load Test – Normal number of users.
+	Stress Test – More users than normal to see breaking point.
+	Spike Test – Sudden big traffic.
+	Endurance Test – Test for a long time.
+
+Example:
+	Test Warehouse Inventory website with 100 users ordering at the same time.
+	Check speed, errors, and server performance.
+
+OWASP ZAP:
+	A free tool to find security problems in websites or web apps.
+	Helps make websites safe from hackers.
+	
+Key Features
+	Checks the site for common vulnerabilities (like SQL injection or XSS).
+	Finds all pages and links in a website.
+	Tests how the site reacts to wrong or unexpected inputs.
+	Shows problems and how serious they are.
+
+OWASP ZAP Usage?
+•	To protect website from attacks.
+•	To check security during development.
+•	To make sure the site follows security rules.
+
