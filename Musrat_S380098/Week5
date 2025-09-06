@@ -1,46 +1,81 @@
 
-                          Week 05  Report
-Week: 18 August 2025 – 24 August 2025
+                               Week 05  Report
+
+Week 5: 18 August 2025 – 24 August 2025
 Prepared by: Musrat Jahan
 
-Agile Testing – Course Summary
+Course Name: Agile Testing 
+Course Teacher: Ash Coleman
+Course Provider : Linkdin Learning 
+Certificate URL : https://www.linkedin.com/learning/certificates/eea21b82f071d857f38c26e27330c330091c9cdb6c6645d2fcb485564cdd450b?trk=share_certificate
 
-Instructor: Ash Coleman
-Platform: LinkedIn Learning
-Part of: Professional Certificate from LambdaTest
-
-Overview
+Course Summary:
 
 Learn to create higher-quality software faster by implementing agile testing practices.
-
 Understand the role of software testers and how testing enhances the agile workflow.
-
-Key Learning Objectives
-
 Understand testing in the agile context.
-
 Explore the role of the agile tester in governing, monitoring, and maintaining quality.
-
 Learn backlog grooming techniques.
-
 Master sprint planning from a testing perspective.
-
 Understand bug tracking and effective defect reporting.
-
 Get hands-on knowledge of manual testing processes.
-
 Learn test automation strategies for faster delivery.
-
 Discover how continuous integration (CI) improves testing and deployment.
-
-Skills Covered
-
-Agile Testing Practices
-
-Bug Tracking & Reporting
-
-Test Automation Strategies
-
-Continuous Integration
-
+Agile Testing Practices & Bug Tracking & Reporting
+Test Automation Strategies & Continuous Integration
 Sprint Planning & Backlog Grooming
+
+Course Name: Learning Selenium
+Course Provider : Linkdin Learning 
+Course Teacher: Meaghan Lewis
+Certificate URL: 
+Course Summary
+This course is an introduction to Selenium, one of the most widely used tools for web application testing. It teaches how to set up and use Selenium effectively for automated browser testing.
+
+Learning Outcomes
+Set up Selenium WebDriver for writing automated tests.
+Use Selenium Grid to distribute the testing load across multiple browsers and servers.
+Configure hub and nodes to run tests remotely.
+Write clean, maintainable test code using variables and functions.
+Organize test suites that scale as projects grow.
+Understand the test pyramid paradigm (balancing unit, integration, and UI testing).
+Install and configure Selenium for different environments.
+Automate tests across multiple browsers and operating systems.
+Structure and manage scalable test suites.
+Apply best practices to write clean, reusable tests.
+Use the test pyramid to build a balanced testing strategy.
+
+
+Course Name: Jira Administration: Automation
+Course Provider : Linkdin Learning 
+Course Teacher: Rachel Wright
+Certificate URL: 
+Course Summary
+This course focuses on using automation in Jira to simplify administrative tasks, reduce manual work, and improve efficiency. It is suitable for Jira admins who want to leverage built-in tools and third-party apps to streamline processes.
+
+Learning Outcomes:
+Automate common Jira tasks: Reduce manual work, repetitive clicks, and human error.
+Build custom rules: Use Jira’s automation engine and smart values to create tailored workflows.
+Sync and update information: Keep issues connected and up-to-date automatically.
+Routine maintenance: Automate recurring administrative tasks like calculations, reminders, and alerts.
+Leverage third-party apps: Extend Jira’s automation capabilities using apps from the Atlassian Marketplace.
+
+
+
+Course Name: Learning Confluence Administration
+Course Provider : Linkdin Learning 
+Course Teacher: Rachel Wright
+Certificate URL: 
+Course Summary
+This course by Rachel Wright is designed for both new and experienced Confluence administrators. It covers how to set up, manage, and extend Confluence to improve collaboration, organization, and information sharing across teams.
+
+Learning Outcomes:
+Introduction to Confluence: What it is, how it’s used, and deployment types.
+Admin area navigation: Understanding core settings and setting up a test environment.
+Spaces management: Configuring global and personal spaces, default settings, and organization strategies.
+Content management: Using blueprints, templates, themes, and best practices for storing and sharing information.
+User and group management: Adding, managing, and organizing users and permissions.
+Extensions and integrations: Vetting apps, creating connections, and integrating with other tools.
+Security & collaboration: Finding, sharing, and protecting information effectively.
+Continuous learning: Resources to stay up to date with Confluence improvements.
+
