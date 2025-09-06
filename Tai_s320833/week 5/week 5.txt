@@ -1,0 +1,37 @@
+https://www.linkedin.com/learning/certificates/d761d57b4cddb994a32139dd348c09a868aa5a65b55a97d0e90a0c1e5191aed9?trk=share_certificate
+https://www.linkedin.com/learning/certificates/7a18db75708ff5f6d9aafebd619509c9b51401893975343ca199f3a945aa1a26?trk=share_certificate
+
+
+As this week was more focused on data-based learning, I completed two key courses: SQL for Testers and Data-Backed Decision Making. Together, these courses strengthened my technical testing capabilities while also enhancing my ability to interpret and apply data-driven insights.
+
+SQL for Testers
+
+The SQL for Testers course by Dave Westerveld was highly valuable in reinforcing the importance of database querying as part of the testing process. By applying SQL directly, testers can validate functionality, investigate issues, and confirm the accuracy of stored data beyond what is visible in the user interface.
+
+I developed practical skills in writing SELECT statements, filtering results, and joining tables to build precise and reliable test validations.
+
+These techniques are particularly useful in verifying whether transactions are logged correctly and ensuring user inputs are stored as expected.
+
+In addition, they improve collaboration with developers and database administrators, as I can now investigate issues at a deeper level and communicate findings more effectively.
+
+In essence, SQL is not simply an optional skill for testers; it is a core competency that directly contributes to identifying and preventing critical defects.
+
+Data-Backed Decision Making
+
+The Data-Backed Decision Making course by Madecraft and Jim Sterne complemented the technical focus of SQL by emphasizing the role of data in strategic thinking. The course highlighted how to interpret metrics, measure outcomes, and transform raw information into actionable insights.
+
+It emphasized the importance of asking the right questions to ensure data analysis is purposeful and aligned with quality goals.
+
+For testers, this is particularly relevant when assessing risks, prioritizing defects, and justifying the impact of specific test coverage.
+
+The course also underscored the role of data in broader organizational contexts, such as agile retrospectives, release decisions, and continuous improvement initiatives.
+
+Relevance for Software Testing
+
+Together, these courses illustrate the full spectrum of data literacy required in software testing.
+
+SQL equips testers with the technical expertise to access, verify, and validate data.
+
+Decision-making frameworks provide the ability to interpret that data, communicate findings, and support informed decision-making.
+
+By combining technical precision with analytical reasoning, testers are able to contribute more effectively to both product quality and organizational outcomes. These skills ensure that the role of testing extends beyond defect detection, becoming a vital source of insight and value in the software development lifecycle.
