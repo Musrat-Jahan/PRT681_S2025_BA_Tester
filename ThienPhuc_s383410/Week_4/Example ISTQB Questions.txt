@@ -1,0 +1,67 @@
+Q1. Which of the following describes a valid test objective? 
+A. Prove no unfixed defects exist. - ❌ Impossible — testing can only show presence of defects, never prove absence. 
+B. Prove no failures will occur in production. ❌ Unrealistic — testing cannot guarantee future error-free operation. 
+C. Reduce risk level of the test object and build confidence in quality. 
+D. Verify there are no untested combinations of inputs. ❌ Coverage is important, but not a full test objective (too narrow). 
+✅ Answer: C – Testing builds confidence and reduces risk; it cannot prove absence of defects or guarantee zero failures. 
+
+ 
+ 
+
+Q2. Which activity contributes most to success in testing? 
+A. Involving testers during SDLC activities to detect defects early. 
+B. Testers avoiding interaction with developers. ❌ Wrong — collaboration is essential, isolation reduces quality. 
+C. Testers collaborating with end users to improve defect reports. ❌ Helpful, but not as impactful as early lifecycle involvement. 
+D. Certified testers always designing better test cases. ❌ Certification ≠ guaranteed better test design; experience matters more. 
+✅ Answer: A – Early tester involvement = early defect detection (cheaper & faster). 
+
+ 
+ 
+
+Q3. Which is not an example of shift-left? 
+A. Reviewing requirements before stakeholder acceptance. ❌ Valid shift-left — early review of docs. 
+B. Writing component tests before coding. ❌ Valid shift-left — testing earlier at unit/component level. 
+C. Running performance efficiency tests during component testing. ❌ Still shift-left — testing quality attributes earlier. 
+D. Writing a test script before configuration management is in place. 
+✅ Answer: D – Shift-left = earlier testing. Writing test scripts without infrastructure is not aligned. 
+
+ 
+ 
+
+Q4. Regression tests are unchanged across iterations and no defects found. Manager is happy, tester is not. Which principle applies? 
+A. Tests wear out. 
+B. Absence-of-errors fallacy. ❌ Means finding no defects ≠ product is useful. Not the scenario here. 
+C. Defects cluster together. ❌ Principle about defects concentrating in a few modules, unrelated here. 
+D. Exhaustive testing is impossible. ❌ True principle, but not related to regression tests losing effectiveness. 
+✅ Answer: A – Tests become less effective over time (pesticide paradox). 
+
+ 
+ 
+
+Q5. Team develops a food-ordering app with new payment feature. Which is part of test analysis? 
+A. Estimating integration effort (8 days). ❌ Test estimation, not analysis. 
+B. Deciding to test payment sharing between users. 
+C. Using boundary value analysis for minimum payment amount. ❌ That’s test design, not analysis. 
+D. Analyzing actual vs expected payment result after a test run. ❌ That’s test execution, not analysis. 
+✅ Answer: B – Test analysis = deciding what to test (scenarios). 
+
+ 
+ 
+
+Q6. Which statement about a test condition is most correct? 
+A. An attribute of a component/system verifiable by one or more test cases. 
+B. A collection of input values and expected results. ❌ That’s a test case, not a condition. 
+C. A specific testable aspect verifiable by a single test case. ❌ Wrong — one condition can require multiple test cases. 
+D. Any potential issue that could occur during operation. ❌ That’s a risk, not a test condition. 
+✅ Answer: A – Test condition = attribute/aspect; can require multiple test cases. 
+
+ 
+ 
+
+Tips for Exam Prep 
+
+Always watch for keywords (“most correct,” “not an example”). 
+
+Recall ISTQB glossary definitions (e.g., difference between test condition vs test case vs risk). 
+
+Apply testing principles (e.g., “tests wear out,” “absence-of-errors fallacy”) to situational questions. 

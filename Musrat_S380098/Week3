@@ -1,163 +1,71 @@
-Modelling & Diagramming Tools 
+                                                       Week 03 Report  
+Week 3: 04 August 2025 – 10 August 2025  
+Prepared by: Musrat Jahan 
 
-UML 
+Fake News Detector App – Role Play (Waterfall)
 
-BPMN 2.0 
+Roles:
 
-Visual Paradigm (or other visual modelling tool) 
+ Client (News Manager)
+ Project Manager
+ Business Analyst
+ Developer
+ Tester
+ Support Team
 
-Balsamiq 
+Phase 1. Requirement Gathering
 
-Figma 
+Client: “We want an app that tells if news is real or fake.”
+Business Analyst: “Do you want a credibility score?”
+Client: “Yes.”
 
-Text & File Tools 
+Phase 2. Design
 
-Notepad++ 
+Designer: “Here’s the app layout: input box + result screen.”
+Client: “Looks good.”
 
-WinMerge 
+Phase 3. Implementation
 
-KeePass 
+Developer: “I built the AI model. It checks text and gives a score.”
 
-Microsoft Excel (reports, formulas) 
+Phase 4. Testing
+Tester: “Fake news gave a high score – bug found.”
+Developer: “Fixed it.”
+Tester: “Now it works.”
 
-VLOOKUP / HLOOKUP 
+Phase 5. Deployment
+Client: “Great, the app shows ‘Likely Fake’ for wrong news.”
 
-Microsoft Word (document management/review) 
+Phase 6. Maintainence
+Support Team: “We’ll handle incidents, updates, and user issues after go-live.”
 
-Collaboration & Project Management 
 
-Trello 
+                                                      Course Details
+Course Name: Software Testing Tools
+Course Provider: Linkdin Learning
+Course Teacher: Mike Smith
+Certificate URL: https://www.linkedin.com/learning/certificates/f6ed3baac7c56b2d2e4c5957e7f0d004aef05c2f4fdb771388e6f12c0a38d450?trk=share_certificate
 
-Jira 
+Course Summary
+This course reviews popular software testing tools (open-source & paid) like Selenium, Postman, JMeter, and Kali Linux. It explains which tools fit best for different testing disciplines such as API, security, load, and automation. It also explores lifecycle management, test planning, and areas beyond traditional QA, like unit and infrastructure testing. The goal is to help testers choose the right tools for their environment by understanding pros, cons, and real use cases
 
-Confluence 
+Learning Objectives
+  Understand  lifecycle management and test planning tools.
+  Learn about test automation frameworks (Selenium, TestLink).
+  Explore API testing tools (SopUI, Postman).
+  Use vulnerability scanners (OWASP ZAP).
+  Perform load testing with JMeter.
+  Go beyond QA into unit testing and infrastructure testing.
 
-SharePoint 
+Tool selection for different testing needs.
+  Lifecycle & test management.
+  Automation scripting & frameworks.
+  API testing & debugging.
+  Security vulnerability scanning.
+  Load/performance testing.
+  Broader testing skills: unit & infrastructure testing.
 
-SourceTree 
+Course: SoapUI Beginner Tutorial 1 - What is SoapUI | SoapUi Introduction 
+Course Provider: Automation step by step Youtube channel.
+Course URL: https://youtu.be/mrxtd0wBGmw?si=86kCEJspyAiusM97
 
-Git GUI 
-
-Microsoft Teams 
-
-Microsoft Outlook 
-
-Scripting & Automation 
-
-Bash script 
-
-Methodologies 
-
-Agile 
-
-Kanban 
-
-Scrum 
-
-Unified Process (UP) 
-
-Business Documentation 
-
-Business Requirements Document (BRD) 
-
-Technical Specification / Technical Manual 
-
-Data Tools & Technologies 
-
-SQL 
-
-Excel 
-
-Power BI 
-
-MySQL 
-
-PostgreSQL 
-
-Redis 
-
-IDE (Integrated Development Environment) 
-
-SSMS (SQL Server Management Studio) 
-
-SQL Server (2022 vs 2019 vs 2015) 
-
-Azure Data Studio 
-
-Visual Studio (SSIS, SSAS) 
-
-Tableau 
-
-Azure Data Factory (Fabric) 
-
-Data Warehouse 
-
-Mobile Platforms 
-
-iOS 
-
-Android 
-
-Linux 
-
-Developer Tools & Technologies 
-
-Visual Studio Code (VS Code) 
-
-Visual Studio (VS) 
-
-Sublime Text 
-
-Postman 
-
-Fiddler 
-
-Developer IDE 
-
-C# 
-
-Python 
-
-.NET 
-
-HTML 
-
-CSS 
-
-JavaScript 
-
-Angular 
-
-React 
-
-TypeScript 
-
-Encapsulation (OOP property) 
-
-AWS 
-
-Linux 
-
-Blazor App 
-
-Web API 
-
-REST API 
-
-SOAP API (difference from REST) 
-
-N-tier Architecture 
-
-Dependency Injection (DI) 
-
- 
-
-Testing Tools 
-
-Selenium 
-
-JMeter 
-
-ZAP 
-
-Zephyr 
