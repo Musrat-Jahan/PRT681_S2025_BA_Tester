@@ -260,6 +260,8 @@ Test Case Design
 
 Completed course on Selenium Essential Training by Meaghan Lewis on LinkedIn learning
 
+https://www.linkedin.com/learning/certificates/17949488f3449e65d518ad0fcef3791d31574294d04d2946de8aca1a74386cb0?trk=share_certificate
+
 I also installed Selenium for optimal web testing.
 
 [TEST - Individual] Identity list of all tools - that could be used for testing i.e. jmeter, fiddler, postman, selenium etc - and write three lines abt that tool use case
