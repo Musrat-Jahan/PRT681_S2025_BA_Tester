@@ -1,0 +1,5 @@
+QA : 
+https://charlesdarwinuni-my.sharepoint.com/personal/s383410_students_cdu_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7Bd39c9621-7dc0-4d4d-8668-5a718591901b%7D&action=edit&wd=target%28QA.one%7C2d16ba00-ee4a-402e-ba45-04fc65d03128%2FQA+%28Quality+Assurance%5C%29%7Ce59466a3-ac87-4479-8e61-fbad10fe2127%2F%29&wdorigin=703&wdpartid=%7B2adeb4b2-e405-4cd2-b759-c8d0e61d94c6%7D%7B1%7D&wdsectionfileid=%7B0caa51de-c022-4ee0-80b7-91bc46c1bb71%7D
+
+Automation testing: 
+https://charlesdarwinuni-my.sharepoint.com/personal/s383410_students_cdu_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7Bd39c9621-7dc0-4d4d-8668-5a718591901b%7D&action=edit&wd=target%28QA.one%7C2d16ba00-ee4a-402e-ba45-04fc65d03128%2FAutomation+testing%7C1e09b100-4283-4e35-bc29-a7a3dd02cd30%2F%29&wdorigin=703&wdpartid=%7B8dbec966-78c2-4a0e-909a-375780459d19%7D%7B29%7D&wdsectionfileid=%7B0caa51de-c022-4ee0-80b7-91bc46c1bb71%7D
